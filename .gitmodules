@@ -1,0 +1,4 @@
+[submodule "submodules/pointnet_pointnet2"]
+	path = submodules/pointnet_pointnet2
+	url = https://github.com/anchitmulye/Pointnet_Pointnet2_pytorch.git
+	branch = onnx
