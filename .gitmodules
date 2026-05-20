@@ -2,3 +2,7 @@
 	path = submodules/pointnet_pointnet2
 	url = https://github.com/anchitmulye/Pointnet_Pointnet2_pytorch.git
 	branch = onnx
+[submodule "submodules/pointmlp"]
+	path = submodules/pointmlp
+	url = https://github.com/anchitmulye/pointMLP-pytorch.git
+	branch = onnx
