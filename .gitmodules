@@ -6,3 +6,7 @@
 	path = submodules/pointmlp
 	url = https://github.com/anchitmulye/pointMLP-pytorch.git
 	branch = onnx
+[submodule "submodules/pointtransformer"]
+	path = submodules/pointtransformer
+	url = https://github.com/anchitmulye/PointTransformerV3.git
+	branch = onnx
